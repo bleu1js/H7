@@ -38,7 +38,7 @@ background-image: url('IMG__ (3).webp'
   <li>سـنـه بــ : 800k  </li>
   <li>ابـدي بــ : 1m  </li>
 </ul>
-<p  style='text-align:center>ضمان مده، اقبل وسيط ضرايب عليك </p>
+<p  style='text-align:center'>ضمان مده، اقبل وسيط ضرايب عليك </p>
 
 
 
