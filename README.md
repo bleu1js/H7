@@ -38,14 +38,14 @@ background-image: url('IMG__ (3).webp'
   <li>سـنـه بــ : 800k  </li>
   <li>ابـدي بــ : 1m  </li>
 </ul>
-<p  style='text-align:center'>ضمان مده، اقبل وسيط ضرايب عليك </p>
+<p  style='text-align:center'>ضمان مده، اقبل وسيط ضرايب عليك </p><br>
 
 
 
 
 
   
-<a href='https://discord.com/channels/1185156857694789652/1185577415334957056'><p style='text-align:center'>اضغط  هنا</p></a> للطلب
+<a href='https://discord.com/channels/1185156857694789652/1185577415334957056'><p style='text-align:center'>اضغط  هنا</p></a> <P style='text-align=center'>للطلب</p>
 
 </folter>
 
