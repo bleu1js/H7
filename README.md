@@ -7,9 +7,8 @@
 
 <style>
   body{
-background-image: url('غغغغغغغغ.PNG
-'
-);
+background-image: url('rrdrdrdrdrdrdrd.PNG
+');
   background-size: cover;
     background-position: center;
     color: white;
