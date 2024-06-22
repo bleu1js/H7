@@ -25,11 +25,6 @@ background-image: url('IMG__ (3).webp'
 
 </p>
 <h3>الاسعار</h3>
-<folter>
-
-
-
-
 <ul>
 <li>اسـبـوع بــ : 60k </li>
 <li>   شـهـر بــ : 120k
@@ -45,9 +40,8 @@ background-image: url('IMG__ (3).webp'
 
 
   
-<a href='https://discord.com/channels/1185156857694789652/1185577415334957056'><p style='text-align:center'>اضغط  هنا</p></a> <P style='text-align=center'>للطلب</p>
+<a href='https://discord.com/channels/1185156857694789652/1185577415334957056'><p style='text-align:center'>اضغط  هنا</p></a> <P style='text-align=center'>للطلب </p>
 
-</folter>
 
 
 
