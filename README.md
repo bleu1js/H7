@@ -24,10 +24,10 @@ background-image: url('IMG__ (3).webp'
 باذن الله ما تخرج من السيرفر الا و انت مبسوط
 
 </p>
-
-
+<folter>
 <a href='https://discord.com/channels/1185156857694789652/1185577415334957056'>اضغط  هنا</a> للطلب
 
+</folter>
 
 
 
