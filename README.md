@@ -4,7 +4,8 @@
 
 <style>
   body{
-background-color: blue;
+background-image: url('IMG__ (3).webp'
+);
   }
   
 
