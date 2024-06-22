@@ -35,15 +35,11 @@ background-image: url('IMG__ (3).webp'
 </ul>
 <p  style='text-align:center'>ضمان مده، اقبل وسيط ضرايب عليك </p><br>
 
-
+<p style='text-align:center'> للطلب </p> <a href='https://discord.com/channels/1185156857694789652/1185577415334957056'><p style='text-align:center'>اضغط  هنا</p> </a>
 
 
 
   
-<a href='https://discord.com/channels/1185156857694789652/1185577415334957056'><p style='text-align:center'>اضغط  هنا</p></a> <P style='text-align=center'>للطلب </p>
-
-
-
 
 
 
