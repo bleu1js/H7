@@ -29,8 +29,6 @@ background-image: url('IMG__ (3).webp'
 <a href='https://discord.com/channels/1185156857694789652/1185577415334957056'>اضغط  هنا</a> للطلب
 
 
-@everyone
-
 
 
 
