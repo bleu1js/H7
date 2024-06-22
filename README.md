@@ -3,8 +3,10 @@
 <body>
 
 <style>
-
+  body{
 background-color: blue;
+  }
+  
 
 
   
