@@ -6,6 +6,7 @@
   body{
 background-image: url('IMG__ (3).webp'
 );
+    size: cover;
   }
   
 
