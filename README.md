@@ -10,7 +10,7 @@ background-image: url('IMG__ (3).webp'
     background-position: center;
   }
 </style>
-<a href='https://discord.gg/7DQKBaDdvs'><p text-align> </a>
+<a href='https://discord.gg/7DQKBaDdvs'><p style='text-align:center'> discord server </p> </a>
 
 
 
