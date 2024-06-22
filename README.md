@@ -6,7 +6,8 @@
   body{
 background-image: url('IMG__ (3).webp'
 );
-    size: cover;
+  background-size: cover;
+    background-position: center;
   }
   
 
